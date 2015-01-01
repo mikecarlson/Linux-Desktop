@@ -17,7 +17,6 @@ sudo apt-add-repository -y ppa:numix/ppa
 sudo apt-get update
 sudo apt-get -y install numix-gtk-theme
 sudo apt-get -y install numix-icon-theme numix-icon-theme-circle
-sudo apt-get -y install numix-wallpaper-aurora
 
 ### - Repo apps
 sudo apt-get -y install docky
