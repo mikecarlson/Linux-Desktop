@@ -26,5 +26,6 @@ sudo apt-get -y install gimp
 sudo apt-get -y install inkscape
 sudo apt-get -y install scribus
 sudo apt-get -y install gparted
+sudo apt-get -y install xfce4-goodies
 sudo apt-get -y install transmission
 sudo apt-get -y install torrent-search
