@@ -29,3 +29,5 @@ sudo apt-get -y install gparted
 sudo apt-get -y install xfce4-goodies
 sudo apt-get -y install transmission
 sudo apt-get -y install torrent-search
+sudo apt-get -y install evince
+sudo apt-get -y install vim
