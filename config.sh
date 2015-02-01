@@ -25,3 +25,4 @@ sudo apt-get -y install terminator
 sudo apt-get -y install transmission
 sudo apt-get -y install torrent-search
 sudo apt-get -y install vim
+sudo apt-get -y install vlc
