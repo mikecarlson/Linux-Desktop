@@ -10,7 +10,7 @@ sudo apt-get -y install numix-icon-theme numix-icon-theme-circle
 ### - Inkscape 0.9
 sudo apt-add-repository -y ppa:inkscape.dev/stable
 sudo apt-get update
-sudo apt-get -y instal inkscape
+sudo apt-get -y install inkscape
 
 ### - Repo apps
 sudo apt-get -y install docky
