@@ -6,7 +6,6 @@ sudo add-apt-repository ppa:daniel.pavel/solaar     # Solaar (Logitech Unifying)
 sudo apt-get update
 
 ### - Plank, Numix, Inkscape, Solaar
-
 sudo apt-get -y install plank
 sudo apt-get -y install numix-gtk-theme numix-icon-theme numix-icon-theme-circle
 sudo apt-get -y install inkscape
