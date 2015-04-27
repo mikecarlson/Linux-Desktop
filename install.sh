@@ -19,6 +19,7 @@ sudo apt-get install google-chrome-beta
 
 ### - Install Other Apps
 
+sudo apt-get -y install openvpn network-manager-openvpn
 sudo apt-get -y install ubuntu-restricted-extras
 sudo apt-get -y install libreoffice
 sudo apt-get -y install gimp
