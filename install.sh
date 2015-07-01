@@ -1,6 +1,6 @@
 ### - Add PPAs
-sudo apt-add-repository -y ppa:numix/ppa            # Numix icons and GTK
-sudo apt-add-repository -y ppa:inkscape.dev/stable  # Inkscape
+sudo add-apt-repository -y ppa:numix/ppa            # Numix icons and GTK
+sudo add-apt-repository -y ppa:inkscape.dev/stable  # Inkscape
 
 sudo apt-get update
 
