@@ -6,6 +6,7 @@ sudo add-apt-repository ppa:dockbar-main/ppa        # DocbarX
 sudo apt-get update
 
 ### - Install apps
+sudo apt-get -y install cifs-utils
 sudo apt-get -y install numix-gtk-theme numix-icon-theme numix-icon-theme-circle
 sudo apt-get -y install inkscape
 sudo apt-get -y install --no-install-recommends xfce4-dockbarx-plugin
