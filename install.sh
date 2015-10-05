@@ -8,6 +8,7 @@ sudo apt-get update
 
 ### - Install apps
 sudo apt-get install oracle-java7-installer
+sudo apt-get install lib32z1 lib32ncurses5 lib32stdc++6
 sudo apt-get -y install cifs-utils
 sudo apt-get -y install network-manager-openvpn network-manager-openvpn-gnome
 sudo apt-get -y install numix-gtk-theme numix-icon-theme numix-icon-theme-circle
