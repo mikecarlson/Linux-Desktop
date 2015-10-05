@@ -1,11 +1,13 @@
 ### - Add PPAs
 sudo add-apt-repository -y ppa:numix/ppa            # Numix icons and GTK
 sudo add-apt-repository -y ppa:inkscape.dev/stable  # Inkscape
-sudo add-apt-repository ppa:dockbar-main/ppa        # DocbarX
+sudo add-apt-repository ppa:dockbar-main/ppa        # DockbarX
+sudo add-apt-repository ppa:webupd8team/java
 
 sudo apt-get update
 
 ### - Install apps
+sudo apt-get install oracle-java7-installer
 sudo apt-get -y install cifs-utils
 sudo apt-get -y install network-manager-openvpn network-manager-openvpn-gnome
 sudo apt-get -y install numix-gtk-theme numix-icon-theme numix-icon-theme-circle
