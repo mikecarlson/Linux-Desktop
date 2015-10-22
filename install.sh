@@ -1,3 +1,6 @@
+### - For minimal crouton environment
+sudo apt-get -y install software-properties-common
+
 ### - Add PPAs
 sudo add-apt-repository -y ppa:numix/ppa            # Numix icons and GTK
 sudo add-apt-repository -y ppa:inkscape.dev/stable  # Inkscape
