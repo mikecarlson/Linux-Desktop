@@ -1,3 +1,4 @@
-#//192.168.86.4/homes/mike	/home/mike/DATA			cifs	credentials=/home/mike/.smbcredentials,iocharset=utf8,sec=ntlm,uid=1000	0	1 
-//192.168.86.4/utility		/home/mike/NAS/Utility		cifs	credentials=/home/mike/.smbcredentials,iocharset=utf8,sec=ntlm,uid=1000	0	1
-//192.168.86.4/Other_Media	/home/mike/NAS/Other_Media	cifs	credentials=/home/mike/.smbcredentials,iocharset=utf8,sec=ntlm,uid=1000	0	1 
+# <file system>			<mount point>					<type>  <options>       							<dump>  <pass>
+//192.168.86.4/homes/mike/Google_Drive_Insynch	/home/mike/NAS/Google_Drive	cifs	credentials=/home/mike/.smbcredentials,iocharset=utf8,sec=ntlm,uid=1000	0	1 
+//192.168.86.4/utility				/home/mike/NAS/Utility		cifs	credentials=/home/mike/.smbcredentials,iocharset=utf8,sec=ntlm,uid=1000	0	1
+//192.168.86.4/Other_Media			/home/mike/NAS/Other_Media	cifs	credentials=/home/mike/.smbcredentials,iocharset=utf8,sec=ntlm,uid=1000	0	1 
