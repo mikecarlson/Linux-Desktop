@@ -6,7 +6,6 @@ sudo add-apt-repository -y ppa:numix/ppa            # Numix icons and GTK
 sudo add-apt-repository -y ppa:inkscape.dev/stable  # Inkscape
 sudo add-apt-repository -y ppa:dockbar-main/ppa     # DockbarX
 sudo add-apt-repository -y ppa:webupd8team/java
-sudo add-apt-repository -y ppa:libreoffice/ppa
 sudo add-apt-repository -y ppa:ricotz/docky         # Plank
 
 sudo apt-get update && sudo apt-get dist-upgrade
@@ -28,3 +27,7 @@ sudo apt-get -y install scribus
 sudo apt-get -y install gparted
 sudo apt-get -y install vim
 sudo apt-get -y install vlc
+
+cd ~/Downloads
+wget http://download.documentfoundation.org/libreoffice/stable/5.0.4/deb/x86_64/LibreOffice_5.0.4_Linux_x86-64_deb.tar.gz
+
