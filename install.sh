@@ -62,6 +62,17 @@ unzip android-studio-ide-141.2456560-linux.zip
 rm android-studio-ide-141.2456560-linux.zip
 cd android-studio/bin
 ./studio.sh
+sleep 10
+
+### - Mount points for NAS
+cd ~
+mkdir NAS
+cd NAS
+mkdir Google_Drive
+mkdir Utility
+mkdir Other_Media
+
+
 
 
 
