@@ -39,6 +39,7 @@ sudo apt-get -y install scribus
 sudo apt-get -y install gparted
 sudo apt-get -y install vim
 sudo apt-get -y install vlc
+sudo apt-get -y install gnome-system-monitor
 sudo apt-get -y install ubuntu-restricted-extras
 sleep 10
 
