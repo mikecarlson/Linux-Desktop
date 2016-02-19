@@ -72,6 +72,13 @@ cd android-studio/bin
 ./studio.sh
 sleep 10
 
+### - KVM for Android Studio
+echo
+echo "KVM for Android Studio"
+sudo apt-get -y install qemu-kvm libvirt-bin
+sudo adduser `id -un` libvirtd
+sudo adduser `id -un` kvm
+
 ### - Mount points for NAS
 echo
 echo "Mount points for NAS"
