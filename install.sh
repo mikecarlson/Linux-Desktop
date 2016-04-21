@@ -35,7 +35,7 @@ sudo apt-get update
 echo 
 echo "Main apps ..."
 sudo apt-get -y install elementary-tweaks
-sudo apt-get -y install oracle-java7-installer
+sudo apt-get -y install oracle-java8-installer
 sudo apt-get -y install lib32z1 lib32ncurses5 lib32stdc++6
 sudo apt-get -y install cifs-utils
 #sudo apt-get -y install network-manager-openvpn network-manager-openvpn-gnome
