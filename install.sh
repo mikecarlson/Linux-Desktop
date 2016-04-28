@@ -54,9 +54,9 @@ sleep 10
 echo 
 echo "LibreOffice 5.1"
 cd ~/Downloads
-wget http://download.documentfoundation.org/libreoffice/stable/5.1.0/deb/x86_64/LibreOffice_5.1.0_Linux_x86-64_deb.tar.gz
-tar -xvf LibreOffice_5.1.0_Linux_x86-64_deb.tar.gz
-cd LibreOffice_5.1.0.3_Linux_x86-64_deb/DEBS/
+wget http://download.documentfoundation.org/libreoffice/stable/5.1.2/deb/x86_64/LibreOffice_5.1.2_Linux_x86-64_deb.tar.gz
+tar -xvf LibreOffice_5.1.2_Linux_x86-64_deb.tar.gz
+cd LibreOffice_5.1.2.2_Linux_x86-64_deb/DEBS/
 sudo dpkg -i *.deb
 sleep 10
 
